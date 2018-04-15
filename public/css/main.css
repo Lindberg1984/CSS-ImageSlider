@@ -12,16 +12,3 @@ body {
   margin: 50px auto;
   width: 80%;
 }
-
-.autoslider {
-  outline: 1px solid blue;
-  height: 488px;
-  width: 648px;
-}
-
-.autoslider__content {
-  display: flex;
-  left: -1440px;
-  list-style: none;
-  position: relative;
-}
